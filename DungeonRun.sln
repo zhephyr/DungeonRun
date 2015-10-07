@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonRun.CSharp.Plugins", "DungeonRun.CSharp.Plugins.csproj", "{0738B130-03C1-3495-01DA-3879C6730195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonRun.CSharp", "DungeonRun.CSharp.csproj", "{FADAF664-07C8-B274-97BC-D753C4A55B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonRun.CSharp.Editor", "DungeonRun.CSharp.Editor.csproj", "{91FD5FA3-1A9D-4A5B-4567-F1B5EF9DD3C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0738B130-03C1-3495-01DA-3879C6730195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0738B130-03C1-3495-01DA-3879C6730195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0738B130-03C1-3495-01DA-3879C6730195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0738B130-03C1-3495-01DA-3879C6730195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADAF664-07C8-B274-97BC-D753C4A55B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADAF664-07C8-B274-97BC-D753C4A55B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADAF664-07C8-B274-97BC-D753C4A55B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADAF664-07C8-B274-97BC-D753C4A55B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FD5FA3-1A9D-4A5B-4567-F1B5EF9DD3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FD5FA3-1A9D-4A5B-4567-F1B5EF9DD3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FD5FA3-1A9D-4A5B-4567-F1B5EF9DD3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FD5FA3-1A9D-4A5B-4567-F1B5EF9DD3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
